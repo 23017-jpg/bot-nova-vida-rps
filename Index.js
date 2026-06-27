@@ -6,7 +6,7 @@ const {
     StringSelectMenuBuilder, 
     ButtonBuilder, 
     ButtonStyle, 
-    PermissionFlagsBits, 
+    PermissionFlagsBits,
     ChannelType,
     ModalBuilder,
     TextInputBuilder,
@@ -30,7 +30,7 @@ const client = new Client({
 
 // ================== CONFIGURAÇÃO DO SERVIDOR ==================
 const CONFIG = {
-    TOKEN: 'MTUyMDE2MTE2MTIyMjI5MTYyOA.Gb7pLU.vQ2D1_XLgd6yOtpBZD6clPaqYobhF6ITBkcqcw', 
+    TOKEN: 'MTUyMDE2MTE2MTIyMjI5MTYyOA.GmZgPC.W_5G7CNaEDALlkACxvlcy2lzKBtsJ-iJwhp_2M', 
     CLIENT_ID: '1520161161222291628', // Garante que colocas o ID do Bot aqui!
     CARGO_STAFF_ID: '1500516012921982999',
     CANAL_LOGS_ID: '1500516017598890056', 
