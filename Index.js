@@ -403,4 +403,4 @@ const app = express();
 app.get('/', (req, res) => res.send('Bot Nova Vida RP Online!'));
 app.listen(process.env.PORT || 3000, () => console.log('🌐 Servidor web do bot iniciado!'));
 
-client.login(CONFIG.TOKEN);
+client.login('MTUyMDE2MTE2MTIyMjI5MTYyOA.GmZgPC.W_5G7CNaEDALlkACxvlcy2lzKBtsJ-iJwhp_2M');
