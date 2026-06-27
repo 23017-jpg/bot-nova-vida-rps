@@ -30,7 +30,7 @@ const client = new Client({
 
 // ================== CONFIGURAÇÃO DO SERVIDOR ==================
 const CONFIG = {
-    TOKEN: 'MTUyMDE2MTE2MTIyMjI5MTYyOA.GegYOt.YNJWY7qYS10TztBdp5R9DK5slyDiclXxvQSB_Y', 
+    TOKEN: 'MTUyMDE2MTE2MTIyMjI5MTYyOA.GbKpGs.eY-6r59wajG5exOyJLDVFg2mOOp8lLXAyG2Q1E', 
     CLIENT_ID: '1520161161222291628', // Garante que colocas o ID do Bot aqui!
     CARGO_STAFF_ID: '1500516012921982999',
     CANAL_LOGS_ID: '1500516017598890056', 
