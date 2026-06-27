@@ -30,7 +30,7 @@ const client = new Client({
 
 // ================== CONFIGURAÇÃO DO SERVIDOR ==================
 const CONFIG = {
-    TOKEN: 'MTUyMDE2MTE2MTIyMjI5MTYyOA.GmZgPC.W_5G7CNaEDALlkACxvlcy2lzKBtsJ-iJwhp_2M', 
+    TOKEN: 'MTUyMDE2MTE2MTIyMjI5MTYyOA.GegYOt.YNJWY7qYS10TztBdp5R9DK5slyDiclXxvQSB_Y', 
     CLIENT_ID: '1520161161222291628', // Garante que colocas o ID do Bot aqui!
     CARGO_STAFF_ID: '1500516012921982999',
     CANAL_LOGS_ID: '1500516017598890056', 
@@ -403,4 +403,4 @@ const app = express();
 app.get('/', (req, res) => res.send('Bot Nova Vida RP Online!'));
 app.listen(process.env.PORT || 3000, () => console.log('🌐 Servidor web do bot iniciado!'));
 
-client.login('MTUyMDE2MTE2MTIyMjI5MTYyOA.GmZgPC.W_5G7CNaEDALlkACxvlcy2lzKBtsJ-iJwhp_2M');
+client.login('MTUyMDE2MTE2MTIyMjI5MTYyOA.GegYOt.YNJWY7qYS10TztBdp5R9DK5slyDiclXxvQSB_Y');
